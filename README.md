@@ -1,4 +1,5 @@
-# OMG EMPATHY COMPETITION 2019 - Alpha - London City Team
+# OMG EMPATHY COMPETITION 2019
+# Alpha - London City Team
 
 
 This is an ensemble multimodal model that integrates predictions from different sources (video, audio, and dialogue transcript). To run the full model, each individual module needs to be run separately and the prediction of each of them integrated using one of the proposed methods (Regression model, Smoothed weighted average model or K-nearest Neighbours Model).
