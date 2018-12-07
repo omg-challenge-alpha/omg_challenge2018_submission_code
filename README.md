@@ -105,7 +105,7 @@ The multimodal 5-Nearest Neighbors model integrates the results of the different
 A 5-NN regression model whose inputs are the 5-dimensional embeddings of the the 5 modalities (with a lag of 5 timeframes between embedding points). After applying the algorithm, the outputs are lowpass filtered and rescaled to the specific subject.
 
 
-## Manual Smoothed Weighted Average Model
+## Multimodal Manual Smoothed Weighted Average Model
 
 The Manual Smoothed Weighted Average Model integrates the results of the different streams into a single prediction.
 
