@@ -2,6 +2,7 @@
 # Alpha - City Team
 
 [Telefónica Innovation Alpha](https://www.alpha.company/)
+
 [MIRG - City, University of London](https://mirg.city.ac.uk/)
 
 
