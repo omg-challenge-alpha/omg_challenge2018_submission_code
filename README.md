@@ -9,7 +9,6 @@
 &nbsp;
 &nbsp;
 &nbsp;
-
 <a href="http://mirg.city.ac.uk/">
 <img src="https://media.founders4schools.org.uk/referrers/generic/2015/11/02/City-University-Logo.jpg" width="250">
 </a>
@@ -21,5 +20,5 @@ This model integrates predictions from different sources (video, audio, and dial
 
 The overall diagram of the model is the following:
 <p>
-<img src="model.png" width="800">
+<img src="model.png" width="850">
 </p>
