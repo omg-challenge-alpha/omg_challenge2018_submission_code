@@ -9,7 +9,7 @@ numpy, keras, tensorflow, sci-kit image
 
 ### preprocessing
 
-The preprocessing of the videos is done using the script omg_challenge2018_submission_code/raw_face/raw_face_preprocessing.py
+The preprocessing of the videos is done using the script omg_challenge2018_submission_code/landmarks/landmarks_preprocessing.py.
 This operation crops the face of the subject at every frame and transforms it into an equalized 48x48 BW image.
 
 
