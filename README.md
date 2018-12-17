@@ -20,5 +20,5 @@ This model integrates predictions from different sources (video, audio, and dial
 
 The overall diagram of the model is the following:
 <p>
-<img src="model.png" width="850">
+<img src="model.png" width="860">
 </p>
