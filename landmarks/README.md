@@ -4,7 +4,7 @@
 numpy, keras, tensorflow, sci-kit image, pandas, scipy
 
 ### preprocessing
-The preprocessing of the videos is done using the script preprocessing/faces_and_landmarks_extraction/extract_faces_and_landmarks.py
+The preprocessing of the videos is done using the script omg_challenge2018_submission_code/landmarks/extract_faces_and_landmarks.py
 This operation detects 68 face landmarks in each frame for all the videos and transform them in a csv file. The preprocessing script needs the data file shape_predictor_68_face_landmarks.dat from the dlib library, downloadable from github.
 
 ### training
