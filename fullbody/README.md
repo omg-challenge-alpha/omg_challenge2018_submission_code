@@ -8,7 +8,7 @@ numpy, keras, tensorflow, sci-kit image, [keras-resnet3d](https://github.com/Jih
 
 ### preprocessing
 
-The preprocessing of the videos is done using the script omg_challenge2018_submission_code/fullbody/full_body.py
+The preprocessing of the videos is done using the script omg_challenge2018_submission_code/fullbody/fullbody_preprocessing.py.
 This operation crops the full body image of the subject at every frame and transforms it into an equalized 128x128 grayscale image.
 
 ### training
