@@ -4,9 +4,7 @@
 <a href="https://www.alpha.company/">
 <img src="https://static1.squarespace.com/static/59954a9ce45a7c2d145edb08/t/5a862059652dea5036d5b54a/1518739555006/alpha+logo.png?format=750w" width="150">
 </a>
-</p>
 
-<p>
 <a href="http://mirg.city.ac.uk/">
 <img src="https://media.founders4schools.org.uk/referrers/generic/2015/11/02/City-University-Logo.jpg" width="250">
 </a>
