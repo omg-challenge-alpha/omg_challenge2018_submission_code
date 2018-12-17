@@ -1,12 +1,6 @@
 # OMG Empathy Challenge 2019
 # Alpha - City Team
 
-[Telefónica Innovation Alpha, Barcelona, Spain](https://www.alpha.company/)
-<img src="https://static1.squarespace.com/static/59954a9ce45a7c2d145edb08/t/5a862059652dea5036d5b54a/1518739555006/alpha+logo.png?format=750w" height="50">
-
-[MIRG - City, University of London, UK](http://mirg.city.ac.uk/)
-<img src="http://mi.soi.city.ac.uk/blog/wp-content/themes/presswork/admin/images/logo_front.png" height="50">
-
 <p>
 <a href="https://www.alpha.company/">
 <img src="https://static1.squarespace.com/static/59954a9ce45a7c2d145edb08/t/5a862059652dea5036d5b54a/1518739555006/alpha+logo.png?format=750w" width="150">
