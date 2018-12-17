@@ -1,5 +1,4 @@
 # OMG Empathy Challenge 2019
-### Alpha - City Team
 
 <p>
 <a href="https://www.alpha.company/">
